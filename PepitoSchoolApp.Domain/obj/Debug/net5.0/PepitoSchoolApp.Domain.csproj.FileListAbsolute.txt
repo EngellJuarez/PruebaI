@@ -1,0 +1,12 @@
+E:\Programación II\PepitoSchoolApp\PepitoSchoolApp.Domain\bin\Debug\net5.0\PepitoSchoolApp.Domain.deps.json
+E:\Programación II\PepitoSchoolApp\PepitoSchoolApp.Domain\bin\Debug\net5.0\PepitoSchoolApp.Domain.dll
+E:\Programación II\PepitoSchoolApp\PepitoSchoolApp.Domain\bin\Debug\net5.0\PepitoSchoolApp.Domain.pdb
+E:\Programación II\PepitoSchoolApp\PepitoSchoolApp.Domain\obj\Debug\net5.0\PepitoSchoolApp.Domain.csproj.AssemblyReference.cache
+E:\Programación II\PepitoSchoolApp\PepitoSchoolApp.Domain\obj\Debug\net5.0\PepitoSchoolApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programación II\PepitoSchoolApp\PepitoSchoolApp.Domain\obj\Debug\net5.0\PepitoSchoolApp.Domain.AssemblyInfoInputs.cache
+E:\Programación II\PepitoSchoolApp\PepitoSchoolApp.Domain\obj\Debug\net5.0\PepitoSchoolApp.Domain.AssemblyInfo.cs
+E:\Programación II\PepitoSchoolApp\PepitoSchoolApp.Domain\obj\Debug\net5.0\PepitoSchoolApp.Domain.csproj.CoreCompileInputs.cache
+E:\Programación II\PepitoSchoolApp\PepitoSchoolApp.Domain\obj\Debug\net5.0\PepitoSchoolApp.Domain.dll
+E:\Programación II\PepitoSchoolApp\PepitoSchoolApp.Domain\obj\Debug\net5.0\refint\PepitoSchoolApp.Domain.dll
+E:\Programación II\PepitoSchoolApp\PepitoSchoolApp.Domain\obj\Debug\net5.0\PepitoSchoolApp.Domain.pdb
+E:\Programación II\PepitoSchoolApp\PepitoSchoolApp.Domain\obj\Debug\net5.0\ref\PepitoSchoolApp.Domain.dll
